@@ -2,7 +2,7 @@ What each code does
 
 man_3_printf ----------------------- custom manpage for custom _printf function
 print.c ---------------------------- holds custom _printf function
-holberton.h ------------------------ holds prototypes of functions spread across all files
+main.h ------------------------ holds prototypes of functions spread across all files
 getFunc_and_buffer_functions.c ----- holds functions to get appropriate function, and create and write buffer
 strcpy.c --------------------------- holds custom-made strcpy function
 strlen.c --------------------------- holds custom-made strlen function
